@@ -1,3 +1,13 @@
-Main Program
-One
-This is two
+Wed Apr 24 20:07:24 UTC 2024
+total 64
+-rw-r--r-- 1 www-data www-data     0 Apr 24 17:32 errors.txt
+-rw-rw-rw- 1 www-data www-data    10 Apr 24 20:07 myscript.sh
+-rw------- 1 www-data www-data    51 Apr 24 20:05 one.c
+-rw-r--r-- 1 www-data www-data  3416 Apr 24 20:05 one.o
+-rw-rw-r-- 1 repoleaf repoleaf    29 Apr 24 20:07 repoleaf_output.txt
+-rw------- 1 www-data www-data    59 Apr 24 20:05 two.c
+-rw-r--r-- 1 www-data www-data  3424 Apr 24 20:05 two.o
+-rwxr-xr-x 1 www-data www-data 17872 Apr 24 20:05 zebra
+-rw-r--r-- 1 www-data www-data 10782 Apr 24 20:05 zebra.a
+-rw------- 1 www-data www-data   100 Apr 24 20:05 zebra.c
+-rw-r--r-- 1 www-data www-data  3664 Apr 24 20:05 zebra.o
