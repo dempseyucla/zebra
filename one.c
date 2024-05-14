@@ -3,8 +3,4 @@
 int one()
 {
 	printf("One\n");
-		printf("One\n");	
-	printf("One\n");	
-	printf("One\n");	
-	printf("One\n");
 }

@@ -2,5 +2,5 @@
 
 int two()
 {
-	printf("This is two\n");
+	printf("This is two in Italy!\n");
 }
