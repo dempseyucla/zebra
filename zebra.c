@@ -5,7 +5,7 @@ int two();
 
 int main()
 {
-	printf("Main Program\n");
+	printf("Main Program SUZ Version.\n");
 	one();
 	two();
 }
